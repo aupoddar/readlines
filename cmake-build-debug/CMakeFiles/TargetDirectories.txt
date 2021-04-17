@@ -1,0 +1,3 @@
+/Users/aubonii/CLionProjects/read_lines/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/aubonii/CLionProjects/read_lines/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aubonii/CLionProjects/read_lines/cmake-build-debug/CMakeFiles/read_lines.dir
